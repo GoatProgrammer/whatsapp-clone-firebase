@@ -1,0 +1,24 @@
+- ban users from app 
+- ban users from chat room 
+- last message 
+- timestamp 
+- add a room 
+- persistant login - I have this in instagram clone 
+- add redux - have this in the battle app 
+- mern or firebase?
+- emoji 
+- add emoji from adin
+- online users in chat  
+- edit own chat 
+- delete own chat 
+- admins can purge the chat room 
+- admins can delete room
+- app admins can delete all rooms
+- app admins can purge the whole app chats
+- profiles 
+- block usersn
+- see if I can get live video to work! ! ! ! 
+
+- - - - - redux code snippets 
+
+- - - - -  persistant login code snippets
